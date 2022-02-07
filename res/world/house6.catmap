@@ -1,0 +1,1415 @@
+# FORMAT:
+# ID TILE_X TILE_Z ELEVATION ROT TEXTURE SCALE_X SCALE_Y SCALE_Z Col ColTOP 
+# IMPORT FILE X Y 
+MAPSIZE 31 26
+OBJ extWall_I 11 19 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 19 4.0 90.0 2 + + + 1 2.0
+OBJ shrub_I 14 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 13 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 12 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 15 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 16 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 17 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 18 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 19 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 24 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 23 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 22 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 21 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 20 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ carpet 15 6 0.0 180.0 0 + + + 0
+OBJ wallHalf_I 15 10 6.0 90.0 0 + + + 1 2.0
+OBJ wallHalf_I 15 10 4.0 90.0 0 + + + 1 2.0
+OBJ wallHalf_I 15 10 2.0 90.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 15 10 0.0 90.0 0 + + + 1 2.0
+OBJ wall_E 15 9 2.0 90.0 0 + + + 1 2.0
+OBJ wall_E 15 9 4.0 90.0 0 + + + 1 2.0
+OBJ wall_E 15 9 6.0 90.0 0 + + + 1 2.0
+OBJ wallBase_E 15 9 0.0 90.0 0 + + + 1 2.0
+OBJ wallBase_E 15 7 0.0 270.0 0 + + + 1 2.0
+OBJ wall_E 15 7 6.0 270.0 0 + + + 1 2.0
+OBJ wall_E 15 7 4.0 270.0 0 + + + 1 2.0
+OBJ wall_E 15 7 2.0 270.0 0 + + + 1 2.0
+OBJ wallBase_L 15 5 0.0 270.0 0 + + + 1 2.0
+OBJ wall_L 15 5 6.0 270.0 0 + + + 1 2.0
+OBJ wall_L 15 5 4.0 270.0 0 + + + 1 2.0
+OBJ wall_L 15 5 2.0 270.0 0 + + + 1 2.0
+OBJ walLBase_I 14 5 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 14 5 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 5 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 5 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 5 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 5 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 5 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 13 5 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 12 5 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 12 5 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 5 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 5 2.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 5 6.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 5 4.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 5 2.0 360.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 11 5 0.0 360.0 0 + + + 1 2.0
+OBJ stairs 12 4 6.0 0.0 0 + + + 1 2.0
+OBJ stairs 13 4 4.0 0.0 0 + + + 1 2.0
+OBJ stairs 14 4 2.0 0.0 0 + + + 1 2.0
+OBJ stairs 15 4 0.0 0.0 0 + + + 1 2.0
+OBJ stairs 15 3 0.0 0.0 0 + + + 1 2.0
+OBJ stairs 14 3 2.0 0.0 0 + + + 1 2.0
+OBJ stairs 13 3 4.0 0.0 0 + + + 1 2.0
+OBJ stairs 12 3 6.0 0.0 0 + + + 1 2.0
+OBJ chair 25 8 0.0 90.0 0 + + + 1 3.0
+OBJ chair 25 6 0.0 90.0 0 + + + 1 3.0
+OBJ chair 28 6 0.0 270.0 0 + + + 1 3.0
+OBJ chair 28 8 0.0 270.0 0 + + + 1 3.0
+OBJ tile3 9 12 0.0 180.0 0 + + + 0
+OBJ tile3 9 11 0.0 180.0 0 + + + 0
+OBJ tile3 8 11 0.0 180.0 0 + + + 0
+OBJ tile3 8 12 0.0 180.0 0 + + + 0
+OBJ tile3 7 12 0.0 180.0 0 + + + 0
+OBJ tile3 7 11 0.0 180.0 0 + + + 0
+OBJ tile3 6 11 0.0 180.0 0 + + + 0
+OBJ tile3 6 12 0.0 180.0 0 + + + 0
+OBJ tile3 5 12 0.0 180.0 0 + + + 0
+OBJ tile3 5 11 0.0 180.0 0 + + + 0
+OBJ tile3 4 11 0.0 180.0 0 + + + 0
+OBJ tile3 4 12 0.0 180.0 0 + + + 0
+OBJ tile3 3 12 0.0 180.0 0 + + + 0
+OBJ tile3 3 11 0.0 180.0 0 + + + 0
+OBJ tile3 2 11 0.0 180.0 0 + + + 0
+OBJ tile3 2 12 0.0 180.0 0 + + + 0
+OBJ tile3 1 12 0.0 180.0 0 + + + 0
+OBJ tile3 1 11 0.0 180.0 0 + + + 0
+OBJ tile3 0 11 0.0 180.0 0 + + + 0
+OBJ tile3 0 12 0.0 180.0 0 + + + 0
+OBJ tile2 12 11 0.0 180.0 0 + + + 0
+OBJ tile2 12 12 0.0 180.0 0 + + + 0
+OBJ tile2 12 13 0.0 180.0 0 + + + 0
+OBJ tile2 12 14 0.0 180.0 0 + + + 0
+OBJ tile2 13 14 0.0 180.0 0 + + + 0
+OBJ tile2 13 13 0.0 180.0 0 + + + 0
+OBJ tile2 13 12 0.0 180.0 0 + + + 0
+OBJ tile2 13 11 0.0 180.0 0 + + + 0
+OBJ tile2 14 11 0.0 180.0 0 + + + 0
+OBJ tile2 14 12 0.0 180.0 0 + + + 0
+OBJ tile2 14 13 0.0 180.0 0 + + + 0
+OBJ tile2 14 14 0.0 180.0 0 + + + 0
+OBJ tile2 15 14 0.0 180.0 0 + + + 0
+OBJ tile2 15 13 0.0 180.0 0 + + + 0
+OBJ tile2 15 12 0.0 180.0 0 + + + 0
+OBJ tile2 15 11 0.0 180.0 0 + + + 0
+OBJ tile2 16 11 0.0 180.0 0 + + + 0
+OBJ tile2 16 12 0.0 180.0 0 + + + 0
+OBJ tile2 16 13 0.0 180.0 0 + + + 0
+OBJ tile2 16 14 0.0 180.0 0 + + + 0
+OBJ tile1 20 14 0.0 180.0 0 + + + 0
+OBJ tile1 20 13 0.0 180.0 0 + + + 0
+OBJ tile1 20 12 0.0 180.0 0 + + + 0
+OBJ tile1 20 11 0.0 180.0 0 + + + 0
+OBJ tile1 21 11 0.0 180.0 0 + + + 0
+OBJ tile1 21 12 0.0 180.0 0 + + + 0
+OBJ tile1 21 13 0.0 180.0 0 + + + 0
+OBJ tile1 21 14 0.0 180.0 0 + + + 0
+OBJ tile1 22 14 0.0 180.0 0 + + + 0
+OBJ tile1 22 13 0.0 180.0 0 + + + 0
+OBJ tile1 22 12 0.0 180.0 0 + + + 0
+OBJ tile1 22 11 0.0 180.0 0 + + + 0
+OBJ tile1 23 11 0.0 180.0 0 + + + 0
+OBJ tile1 23 12 0.0 180.0 0 + + + 0
+OBJ tile1 23 13 0.0 180.0 0 + + + 0
+OBJ tile1 23 14 0.0 180.0 0 + + + 0
+OBJ fridge 20 13 0.0 90.0 0 + + + 1 5.0
+OBJ recyclelid 3 11 2.0 180.0 0 + + + 1 1 
+OBJ recyclelid 3 11 3.0 180.0 0 + + + 1 0.299999952316
+OBJ recbin 3 11 0.0 180.0 0 + + + 1 3.0
+OBJ trashbag 1 11 2.0 180.0 0 + + + 1 2.0
+OBJ trashcan 1 11 0.0 180.0 0 + + + 1 3.0
+OBJ wall_I 17 13 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 13 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 12 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 12 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 11 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 11 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 11 9 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 9 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 8 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 8 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 7 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 7 4.0 270.0 0 + + + 1 2.0
+OBJ extWallBase_I 11 19 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_E 11 15 0.0 90.0 2 - + + 1 2.0
+OBJ extWall_E 11 15 2.0 90.0 2 - + + 1 2.0
+OBJ extWallBase_E 11 18 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_E 11 18 2.0 90.0 2 + + + 1 2.0
+OBJ cement 29 25 0.0 270.0 0 + + + 0
+OBJ cement 30 25 0.0 270.0 0 + + + 0
+OBJ cement 28 25 0.0 270.0 0 + + + 0
+OBJ cement 27 25 0.0 270.0 0 + + + 0
+OBJ cement 25 25 0.0 270.0 0 + + + 0
+OBJ cement 26 25 0.0 270.0 0 + + + 0
+OBJ cement 24 25 0.0 270.0 0 + + + 0
+OBJ cement 11 25 0.0 270.0 0 + + + 0
+OBJ cement 12 25 0.0 270.0 0 + + + 0
+OBJ cement 13 25 0.0 270.0 0 + + + 0
+OBJ cement 14 25 0.0 270.0 0 + + + 0
+OBJ cement 15 25 0.0 270.0 0 + + + 0
+OBJ cement 17 25 0.0 270.0 0 + + + 0
+OBJ cement 16 25 0.0 270.0 0 + + + 0
+OBJ cement 18 25 0.0 270.0 0 + + + 0
+OBJ cement 19 25 0.0 270.0 0 + + + 0
+OBJ cement 21 25 0.0 270.0 0 + + + 0
+OBJ cement 20 25 0.0 270.0 0 + + + 0
+OBJ cement 22 25 0.0 270.0 0 + + + 0
+OBJ cement 23 25 0.0 270.0 0 + + + 0
+OBJ cement 10 25 0.0 180.0 0 + + + 0
+OBJ cement 10 24 0.0 180.0 0 + + + 0
+OBJ cement 10 22 0.0 180.0 0 + + + 0
+OBJ cement 10 23 0.0 180.0 0 + + + 0
+OBJ cement 10 21 0.0 180.0 0 + + + 0
+OBJ cement 10 20 0.0 180.0 0 + + + 0
+OBJ cement 10 18 0.0 180.0 0 + + + 0
+OBJ cement 10 19 0.0 180.0 0 + + + 0
+OBJ cement 10 17 0.0 180.0 0 + + + 0
+OBJ cement 10 16 0.0 180.0 0 + + + 0
+OBJ cement 10 15 0.0 180.0 0 + + + 0
+OBJ cement 10 14 0.0 180.0 0 + + + 0
+OBJ cement 10 13 0.0 180.0 0 + + + 0
+OBJ shrub_E 11 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 25 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 26 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 27 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 28 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 29 24 0.0 90.0 0 + + + 1 1.76423144341
+OBJ extWallBase_I 23 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 22 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 22 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 21 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 21 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 20 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 20 23 2.0 180.0 2 + + + 1 2.0
+OBJ shrub_I 16 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 15 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 14 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 13 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_E 12 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_E 22 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 21 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 20 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 19 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 18 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 17 1 0.0 270.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 22 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 23 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 21 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 20 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 19 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 16 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 17 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 18 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_L 30 24 0.0 0.0 0 + + + 1 1.76423144341
+OBJ shrub_E 30 14 0.0 360.0 0 + + + 1 1.76423144341
+OBJ shrub_E 30 11 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 15 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 10 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 9 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 8 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 7 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 6 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 5 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 4 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 3 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 30 2 0.0 180.0 0 + + + 1 1.76423144341
+OBJ shrub_I 29 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 28 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 27 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 26 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_I 25 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_L 30 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ shrub_E 24 1 0.0 90.0 0 + + + 1 1.76423144341
+OBJ wall_E 20 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_E 20 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_E 20 10 6.0 360.0 0 + + + 1 2.0
+OBJ wallBase_E 20 10 0.0 360.0 0 + + + 1 2.0
+OBJ wallBase_E 20 15 0.0 360.0 0 + + + 1 2.0
+OBJ wall_E 20 15 6.0 360.0 0 + + + 1 2.0
+OBJ wall_E 20 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_E 20 15 2.0 360.0 0 + + + 1 2.0
+OBJ wall_L 19 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_L 19 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_L 19 10 6.0 360.0 0 + + + 1 2.0
+OBJ wallBase_L 19 10 0.0 360.0 0 + + + 1 2.0
+OBJ wallBase_L 19 15 0.0 90.0 0 + + + 1 2.0
+OBJ wall_L 19 15 6.0 90.0 0 + + + 1 2.0
+OBJ wall_L 19 15 4.0 90.0 0 + + + 1 2.0
+OBJ wall_L 19 15 2.0 90.0 0 + + + 1 2.0
+OBJ carpet 19 10 0.0 180.0 0 + + + 0
+OBJ carpet 19 15 0.0 180.0 0 + + + 0
+OBJ wall_E 23 15 2.0 180.0 0 + + + 1 2.0
+OBJ wall_E 23 15 4.0 180.0 0 + + + 1 2.0
+OBJ wall_E 23 15 6.0 180.0 0 + + + 1 2.0
+OBJ wallBase_E 23 15 0.0 180.0 0 + + + 1 2.0
+OBJ wallBase_E 23 10 0.0 180.0 0 + + + 1 2.0
+OBJ wall_E 23 10 6.0 180.0 0 + + + 1 2.0
+OBJ wall_E 23 10 4.0 180.0 0 + + + 1 2.0
+OBJ wall_E 23 10 2.0 180.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 24 10 0.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 10 2.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 10 4.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 10 6.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 15 6.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 15 4.0 180.0 0 + + + 1 2.0
+OBJ wallHalf_I 24 15 2.0 180.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 24 15 0.0 180.0 0 + + + 1 2.0
+OBJ carpet 16 15 0.0 180.0 0 + + + 0
+OBJ carpet 16 10 0.0 180.0 0 + + + 0
+OBJ wall_I 16 15 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 16 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 16 15 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 16 15 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 16 10 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 16 10 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 16 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 16 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 15 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 15 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 15 10 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 15 10 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 15 15 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 15 15 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 15 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 15 15 2.0 360.0 0 + + + 1 2.0
+OBJ carpet 15 10 0.0 180.0 0 + + + 0
+OBJ carpet 15 15 0.0 180.0 0 + + + 0
+OBJ carpet 14 15 0.0 180.0 0 + + + 0
+OBJ carpet 14 10 0.0 180.0 0 + + + 0
+OBJ wall_I 14 15 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 15 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 14 15 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 14 10 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 14 10 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 14 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_E 17 11 2.0 270.0 0 + + + 1 2.0
+OBJ wallBase_E 17 11 0.0 270.0 0 + + + 1 2.0
+OBJ wallBase_E 17 13 0.0 90.0 0 + + + 1 2.0
+OBJ wall_E 17 13 2.0 90.0 0 + + + 1 2.0
+OBJ carpet 17 11 0.0 180.0 0 + + + 0
+OBJ carpet 17 12 0.0 180.0 0 + + + 0
+OBJ carpet 17 13 0.0 180.0 0 + + + 0
+OBJ wallBase_L 17 10 0.0 270.0 0 + + + 1 2.0
+OBJ wall_L 17 10 6.0 270.0 0 + + + 1 2.0
+OBJ wall_L 17 10 4.0 270.0 0 + + + 1 2.0
+OBJ wall_L 17 10 2.0 270.0 0 + + + 1 2.0
+OBJ wallBase_L 17 15 0.0 180.0 0 + + + 1 2.0
+OBJ wall_L 17 15 6.0 180.0 0 + + + 1 2.0
+OBJ wall_L 17 15 4.0 180.0 0 + + + 1 2.0
+OBJ wall_L 17 15 2.0 180.0 0 + + + 1 2.0
+OBJ wall_I 19 11 2.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 11 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 11 6.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 19 11 0.0 270.0 0 + + + 1 2.0
+OBJ walLBase_I 19 12 0.0 270.0 0 + + + 1 2.0
+OBJ wall_I 19 12 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 12 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 12 2.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 13 2.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 13 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 13 6.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 19 13 0.0 270.0 0 + + + 1 2.0
+OBJ walLBase_I 19 14 0.0 270.0 0 + + + 1 2.0
+OBJ wall_I 19 14 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 14 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 19 14 2.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 17 14 0.0 270.0 0 + + + 1 2.0
+OBJ wall_I 17 14 6.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 14 4.0 90.0 0 + + + 1 2.0
+OBJ wall_I 17 14 2.0 90.0 0 + + + 1 2.0
+OBJ wall_I 13 10 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 10 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 13 10 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 13 15 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 13 15 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 13 15 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 15 2.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 15 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 15 6.0 360.0 0 + + + 1 2.0
+OBJ walLBase_I 12 15 0.0 180.0 0 + + + 1 2.0
+OBJ walLBase_I 12 10 0.0 180.0 0 + + + 1 2.0
+OBJ wall_I 12 10 6.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 10 4.0 360.0 0 + + + 1 2.0
+OBJ wall_I 12 10 2.0 360.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 11 15 0.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 15 2.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 15 4.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 15 6.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 6.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 4.0 360.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 2.0 360.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 11 10 0.0 360.0 0 + + + 1 2.0
+OBJ carpet 24 12 0.0 270.0 0 + + + 0
+OBJ carpet 24 13 0.0 270.0 0 + + + 0
+OBJ carpet 24 14 0.0 270.0 0 + + + 0
+OBJ carpet 24 11 0.0 270.0 0 + + + 0
+OBJ extWallBase_I 24 13 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 24 14 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 24 12 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 24 11 0.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 11 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 12 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 13 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 14 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 11 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 12 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 13 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 24 14 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 25 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 26 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 27 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 28 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 25 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 25 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 28 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 27 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 25 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 26 10 0.0 180.0 2 + + + 1 2.0
+OBJ carpet 28 10 0.0 180.0 0 + + + 0
+OBJ carpet 25 10 0.0 180.0 0 + + + 0
+OBJ carpet 26 10 0.0 180.0 0 + + + 0
+OBJ carpet 27 10 0.0 180.0 0 + + + 0
+OBJ carpet 26 15 0.0 360.0 0 + + + 0
+OBJ carpet 27 15 0.0 360.0 0 + + + 0
+OBJ carpet 28 15 0.0 360.0 0 + + + 0
+OBJ carpet 25 15 0.0 360.0 0 + + + 0
+OBJ extWallBase_I 27 15 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 28 15 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 26 15 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 25 15 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 25 15 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 25 15 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 25 15 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 26 15 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 27 15 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 28 15 6.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_RL 24 10 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_RL 24 10 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_RL 24 10 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_RL 24 10 2.0 90.0 2 + + + 1 2.0
+OBJ carpet 24 10 0.0 270.0 0 + + + 0
+OBJ carpet 24 15 0.0 360.0 0 + + + 0
+OBJ extWall_RL 24 15 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_RL 24 15 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_RL 24 15 6.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_RL 24 15 0.0 180.0 2 + + + 1 2.0
+OBJ grass 25 11 0.0 180.0 0 + + + 0
+OBJ grass 25 12 0.0 180.0 0 + + + 0
+OBJ grass 25 13 0.0 180.0 0 + + + 0
+OBJ grass 25 14 0.0 180.0 0 + + + 0
+OBJ grass 26 14 0.0 180.0 0 + + + 0
+OBJ grass 26 13 0.0 180.0 0 + + + 0
+OBJ grass 26 12 0.0 180.0 0 + + + 0
+OBJ grass 26 11 0.0 180.0 0 + + + 0
+OBJ grass 27 11 0.0 180.0 0 + + + 0
+OBJ grass 27 12 0.0 180.0 0 + + + 0
+OBJ grass 27 13 0.0 180.0 0 + + + 0
+OBJ grass 27 14 0.0 180.0 0 + + + 0
+OBJ grass 28 14 0.0 180.0 0 + + + 0
+OBJ grass 28 13 0.0 180.0 0 + + + 0
+OBJ grass 28 12 0.0 180.0 0 + + + 0
+OBJ grass 28 11 0.0 180.0 0 + + + 0
+OBJ grass 29 11 0.0 180.0 0 + + + 0
+OBJ grass 29 12 0.0 180.0 0 + + + 0
+OBJ grass 29 13 0.0 180.0 0 + + + 0
+OBJ grass 29 14 0.0 180.0 0 + + + 0
+OBJ grass 30 15 0.0 180.0 0 + + + 0
+OBJ grass 30 14 0.0 180.0 0 + + + 0
+OBJ grass 30 13 0.0 180.0 0 + + + 0
+OBJ grass 30 12 0.0 180.0 0 + + + 0
+OBJ grass 30 11 0.0 180.0 0 + + + 0
+OBJ grass 30 10 0.0 180.0 0 + + + 0
+OBJ extWall_L 29 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_L 29 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_L 29 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_L 29 10 0.0 180.0 2 + + + 1 2.0
+OBJ carpet 29 10 0.0 180.0 0 + + + 0
+OBJ carpet 29 15 0.0 270.0 0 + + + 0
+OBJ extWallBase_L 29 15 0.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 29 15 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 29 15 4.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 29 15 6.0 270.0 2 + + + 1 2.0
+OBJ wall_E 11 7 2.0 270.0 0 + + + 1 2.0
+OBJ wallBase_E 11 7 0.0 270.0 0 + + + 1 2.0
+OBJ wallBase_E 11 9 0.0 90.0 0 + + + 1 2.0
+OBJ wall_E 11 9 2.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 15 6 0.0 90.0 0 + + + 1 2.0
+OBJ wall_I 15 6 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 15 6 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 15 6 2.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 6 2.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 6 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 6 6.0 270.0 0 + + + 1 2.0
+OBJ walLBase_I 11 6 0.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 11 5 0.0 90.0 0 + + + 1 2.0
+OBJ wall_I 11 5 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 5 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 5 2.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 4 2.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 4 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 4 6.0 270.0 0 + + + 1 2.0
+OBJ walLBase_I 11 4 0.0 90.0 0 + + + 1 2.0
+OBJ walLBase_I 11 3 0.0 90.0 0 + + + 1 2.0
+OBJ wall_I 11 3 6.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 3 4.0 270.0 0 + + + 1 2.0
+OBJ wall_I 11 3 2.0 270.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 11 2 0.0 270.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 2 2.0 270.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 2 4.0 270.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 2 6.0 270.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 6.0 90.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 4.0 90.0 0 + + + 1 2.0
+OBJ wallHalf_I 11 10 2.0 90.0 0 + + + 1 2.0
+OBJ wallBaseHalf_I 11 10 0.0 90.0 0 + + + 1 2.0
+OBJ extWall_E 10 1 6.0 360.0 2 - + + 1 2.0
+OBJ extWall_E 2 1 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_E 2 1 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_E 10 1 4.0 360.0 2 - + + 1 2.0
+OBJ extWall_E 10 1 2.0 360.0 2 - + + 1 2.0
+OBJ extWallBase_E 10 1 0.0 360.0 2 - + + 1 2.0
+OBJ extWall_E 2 1 2.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_E 2 1 0.0 360.0 2 + + + 1 2.0
+OBJ cement 4 0 0.0 180.0 0 + + + 0
+OBJ cement 3 0 0.0 180.0 0 + + + 0
+OBJ cement 2 0 0.0 180.0 0 + + + 0
+OBJ cement 0 0 0.0 180.0 0 + + + 0
+OBJ cement 1 0 0.0 180.0 0 + + + 0
+OBJ cement 1 1 0.0 180.0 0 + + + 0
+OBJ cement 0 1 0.0 180.0 0 + + + 0
+OBJ cement 2 1 0.0 180.0 0 + + + 0
+OBJ cement 3 1 0.0 180.0 0 + + + 0
+OBJ cement 4 1 0.0 180.0 0 + + + 0
+OBJ cement 10 0 0.0 180.0 0 + + + 0
+OBJ cement 9 0 0.0 180.0 0 + + + 0
+OBJ cement 8 0 0.0 180.0 0 + + + 0
+OBJ cement 5 0 0.0 180.0 0 + + + 0
+OBJ cement 6 0 0.0 180.0 0 + + + 0
+OBJ cement 7 0 0.0 180.0 0 + + + 0
+OBJ cement 7 1 0.0 180.0 0 + + + 0
+OBJ cement 6 1 0.0 180.0 0 + + + 0
+OBJ cement 5 1 0.0 180.0 0 + + + 0
+OBJ cement 8 1 0.0 180.0 0 + + + 0
+OBJ cement 9 1 0.0 180.0 0 + + + 0
+OBJ cement 10 1 0.0 180.0 0 + + + 0
+OBJ cement 10 2 0.0 180.0 0 + + + 0
+OBJ cement 9 2 0.0 180.0 0 + + + 0
+OBJ cement 8 2 0.0 180.0 0 + + + 0
+OBJ cement 5 2 0.0 180.0 0 + + + 0
+OBJ cement 6 2 0.0 180.0 0 + + + 0
+OBJ cement 7 2 0.0 180.0 0 + + + 0
+OBJ cement 4 2 0.0 180.0 0 + + + 0
+OBJ cement 3 2 0.0 180.0 0 + + + 0
+OBJ cement 2 2 0.0 180.0 0 + + + 0
+OBJ cement 0 2 0.0 180.0 0 + + + 0
+OBJ cement 1 2 0.0 180.0 0 + + + 0
+OBJ cement 1 4 0.0 180.0 0 + + + 0
+OBJ cement 1 3 0.0 180.0 0 + + + 0
+OBJ cement 0 3 0.0 180.0 0 + + + 0
+OBJ cement 0 4 0.0 180.0 0 + + + 0
+OBJ cement 2 3 0.0 180.0 0 + + + 0
+OBJ cement 2 4 0.0 180.0 0 + + + 0
+OBJ cement 3 4 0.0 180.0 0 + + + 0
+OBJ cement 3 3 0.0 180.0 0 + + + 0
+OBJ cement 4 3 0.0 180.0 0 + + + 0
+OBJ cement 4 4 0.0 180.0 0 + + + 0
+OBJ cement 7 4 0.0 180.0 0 + + + 0
+OBJ cement 7 3 0.0 180.0 0 + + + 0
+OBJ cement 6 3 0.0 180.0 0 + + + 0
+OBJ cement 6 4 0.0 180.0 0 + + + 0
+OBJ cement 5 4 0.0 180.0 0 + + + 0
+OBJ cement 5 3 0.0 180.0 0 + + + 0
+OBJ cement 8 3 0.0 180.0 0 + + + 0
+OBJ cement 8 4 0.0 180.0 0 + + + 0
+OBJ cement 9 4 0.0 180.0 0 + + + 0
+OBJ cement 9 3 0.0 180.0 0 + + + 0
+OBJ cement 10 3 0.0 180.0 0 + + + 0
+OBJ cement 10 4 0.0 180.0 0 + + + 0
+OBJ cement 10 6 0.0 180.0 0 + + + 0
+OBJ cement 10 5 0.0 180.0 0 + + + 0
+OBJ cement 9 5 0.0 180.0 0 + + + 0
+OBJ cement 9 6 0.0 180.0 0 + + + 0
+OBJ cement 8 6 0.0 180.0 0 + + + 0
+OBJ cement 8 5 0.0 180.0 0 + + + 0
+OBJ cement 5 5 0.0 180.0 0 + + + 0
+OBJ cement 5 6 0.0 180.0 0 + + + 0
+OBJ cement 6 6 0.0 180.0 0 + + + 0
+OBJ cement 6 5 0.0 180.0 0 + + + 0
+OBJ cement 7 5 0.0 180.0 0 + + + 0
+OBJ cement 7 6 0.0 180.0 0 + + + 0
+OBJ cement 4 6 0.0 180.0 0 + + + 0
+OBJ cement 4 5 0.0 180.0 0 + + + 0
+OBJ cement 3 5 0.0 180.0 0 + + + 0
+OBJ cement 3 6 0.0 180.0 0 + + + 0
+OBJ cement 2 6 0.0 180.0 0 + + + 0
+OBJ cement 2 5 0.0 180.0 0 + + + 0
+OBJ cement 0 6 0.0 180.0 0 + + + 0
+OBJ cement 0 5 0.0 180.0 0 + + + 0
+OBJ cement 1 5 0.0 180.0 0 + + + 0
+OBJ cement 1 6 0.0 180.0 0 + + + 0
+OBJ cement 1 8 0.0 180.0 0 + + + 0
+OBJ cement 1 7 0.0 180.0 0 + + + 0
+OBJ cement 0 7 0.0 180.0 0 + + + 0
+OBJ cement 0 8 0.0 180.0 0 + + + 0
+OBJ cement 2 7 0.0 180.0 0 + + + 0
+OBJ cement 2 8 0.0 180.0 0 + + + 0
+OBJ cement 3 8 0.0 180.0 0 + + + 0
+OBJ cement 3 7 0.0 180.0 0 + + + 0
+OBJ cement 4 7 0.0 180.0 0 + + + 0
+OBJ cement 4 8 0.0 180.0 0 + + + 0
+OBJ cement 7 8 0.0 180.0 0 + + + 0
+OBJ cement 7 7 0.0 180.0 0 + + + 0
+OBJ cement 6 7 0.0 180.0 0 + + + 0
+OBJ cement 6 8 0.0 180.0 0 + + + 0
+OBJ cement 5 8 0.0 180.0 0 + + + 0
+OBJ cement 5 7 0.0 180.0 0 + + + 0
+OBJ cement 8 7 0.0 180.0 0 + + + 0
+OBJ cement 8 8 0.0 180.0 0 + + + 0
+OBJ cement 9 8 0.0 180.0 0 + + + 0
+OBJ cement 9 7 0.0 180.0 0 + + + 0
+OBJ cement 10 7 0.0 180.0 0 + + + 0
+OBJ cement 10 8 0.0 180.0 0 + + + 0
+OBJ cement 10 10 0.0 180.0 0 + + + 0
+OBJ cement 10 9 0.0 180.0 0 + + + 0
+OBJ cement 9 9 0.0 180.0 0 + + + 0
+OBJ cement 9 10 0.0 180.0 0 + + + 0
+OBJ cement 8 10 0.0 180.0 0 + + + 0
+OBJ cement 8 9 0.0 180.0 0 + + + 0
+OBJ cement 5 9 0.0 180.0 0 + + + 0
+OBJ cement 5 10 0.0 180.0 0 + + + 0
+OBJ cement 6 10 0.0 180.0 0 + + + 0
+OBJ cement 6 9 0.0 180.0 0 + + + 0
+OBJ cement 7 9 0.0 180.0 0 + + + 0
+OBJ cement 7 10 0.0 180.0 0 + + + 0
+OBJ cement 4 10 0.0 180.0 0 + + + 0
+OBJ cement 4 9 0.0 180.0 0 + + + 0
+OBJ cement 3 9 0.0 180.0 0 + + + 0
+OBJ cement 3 10 0.0 180.0 0 + + + 0
+OBJ cement 2 10 0.0 180.0 0 + + + 0
+OBJ cement 2 9 0.0 180.0 0 + + + 0
+OBJ cement 0 10 0.0 180.0 0 + + + 0
+OBJ cement 0 9 0.0 180.0 0 + + + 0
+OBJ cement 1 9 0.0 180.0 0 + + + 0
+OBJ cement 1 10 0.0 180.0 0 + + + 0
+OBJ cement 10 11 0.0 180.0 0 + + + 0
+OBJ cement 10 12 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 1 3 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 3 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 3 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 3 6.0 90.0 2 + + + 1 2.0
+OBJ carpet 11 1 0.0 180.0 0 + + + 0
+OBJ extWallBase_L 11 1 0.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 11 1 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 11 1 4.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 11 1 6.0 270.0 2 + + + 1 2.0
+OBJ carpet 11 2 0.0 360.0 0 + + + 0
+OBJ extWall_RL 11 2 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_RL 11 2 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_RL 11 2 6.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_RL 11 2 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 2 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 2 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 2 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 2 10 0.0 180.0 2 + + + 1 2.0
+OBJ tree 3 13 0.0 180.0 0 + + + 1 7.0
+OBJ treetop 3 13 0.0 180.0 0 + + + 1 1 
+OBJ tree 7 16 0.0 180.0 0 + + + 1 7.0
+OBJ treetop 7 16 0.0 180.0 0 + + + 1 1 
+OBJ tree 3 19 0.0 180.0 0 + + + 1 7.0
+OBJ treetop 3 19 0.0 180.0 0 + + + 1 1 
+OBJ tree 7 22 0.0 180.0 0 + + + 1 7.0
+OBJ treetop 7 22 0.0 180.0 0 + + + 1 1 
+OBJ extWallBase_RL 11 10 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_RL 11 10 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_RL 11 10 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_RL 11 10 2.0 360.0 2 + + + 1 2.0
+OBJ carpet 11 10 0.0 180.0 0 + + + 0
+OBJ extWallBase_L 1 10 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 1 10 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 1 10 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 1 10 6.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 10 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 10 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 10 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 10 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 9 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 7 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 7 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 9 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 3 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 3 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 3 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 3 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 4 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 4 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 5 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 5 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 6 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 6 10 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 6 10 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 6 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 7 10 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 7 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 8 10 6.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 8 10 0.0 180.0 2 + + + 1 2.0
+OBJ carpet 12 9 0.0 180.0 0 + + + 0
+OBJ carpet 11 9 0.0 180.0 0 + + + 0
+OBJ carpet 12 10 0.0 180.0 0 + + + 0
+OBJ carpet 11 7 0.0 180.0 0 + + + 0
+OBJ carpet 12 7 0.0 180.0 0 + + + 0
+OBJ carpet 12 8 0.0 180.0 0 + + + 0
+OBJ carpet 11 8 0.0 180.0 0 + + + 0
+OBJ carpet 11 6 0.0 180.0 0 + + + 0
+OBJ carpet 12 6 0.0 180.0 0 + + + 0
+OBJ carpet 12 5 0.0 180.0 0 + + + 0
+OBJ carpet 11 5 0.0 180.0 0 + + + 0
+OBJ carpet 11 4 0.0 180.0 0 + + + 0
+OBJ carpet 12 4 0.0 180.0 0 + + + 0
+OBJ carpet 12 2 0.0 180.0 0 + + + 0
+OBJ carpet 11 3 0.0 180.0 0 + + + 0
+OBJ carpet 12 3 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 12 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 12 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 12 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 12 2 6.0 360.0 2 + + + 1 2.0
+OBJ carpet 13 9 0.0 180.0 0 + + + 0
+OBJ carpet 13 10 0.0 180.0 0 + + + 0
+OBJ carpet 13 7 0.0 180.0 0 + + + 0
+OBJ carpet 13 8 0.0 180.0 0 + + + 0
+OBJ carpet 13 6 0.0 180.0 0 + + + 0
+OBJ carpet 13 5 0.0 180.0 0 + + + 0
+OBJ carpet 13 4 0.0 180.0 0 + + + 0
+OBJ carpet 13 2 0.0 180.0 0 + + + 0
+OBJ carpet 13 3 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 13 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 13 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 13 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 13 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 14 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 15 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 15 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 14 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 14 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 15 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 14 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 15 2 0.0 360.0 2 + + + 1 2.0
+OBJ carpet 15 3 0.0 180.0 0 + + + 0
+OBJ carpet 14 3 0.0 180.0 0 + + + 0
+OBJ carpet 14 2 0.0 180.0 0 + + + 0
+OBJ carpet 15 2 0.0 180.0 0 + + + 0
+OBJ carpet 15 4 0.0 180.0 0 + + + 0
+OBJ carpet 14 4 0.0 180.0 0 + + + 0
+OBJ carpet 14 5 0.0 180.0 0 + + + 0
+OBJ carpet 15 5 0.0 180.0 0 + + + 0
+OBJ carpet 15 7 0.0 180.0 0 + + + 0
+OBJ carpet 14 6 0.0 180.0 0 + + + 0
+OBJ carpet 14 8 0.0 180.0 0 + + + 0
+OBJ carpet 15 9 0.0 180.0 0 + + + 0
+OBJ carpet 15 8 0.0 180.0 0 + + + 0
+OBJ carpet 14 7 0.0 180.0 0 + + + 0
+OBJ carpet 14 9 0.0 180.0 0 + + + 0
+OBJ carpet 18 9 0.0 180.0 0 + + + 0
+OBJ carpet 17 9 0.0 180.0 0 + + + 0
+OBJ carpet 17 10 0.0 180.0 0 + + + 0
+OBJ carpet 18 10 0.0 180.0 0 + + + 0
+OBJ carpet 17 7 0.0 180.0 0 + + + 0
+OBJ carpet 18 7 0.0 180.0 0 + + + 0
+OBJ carpet 18 8 0.0 180.0 0 + + + 0
+OBJ carpet 17 8 0.0 180.0 0 + + + 0
+OBJ carpet 17 6 0.0 180.0 0 + + + 0
+OBJ carpet 18 6 0.0 180.0 0 + + + 0
+OBJ carpet 18 5 0.0 180.0 0 + + + 0
+OBJ carpet 17 5 0.0 180.0 0 + + + 0
+OBJ carpet 17 4 0.0 180.0 0 + + + 0
+OBJ carpet 18 4 0.0 180.0 0 + + + 0
+OBJ carpet 18 2 0.0 180.0 0 + + + 0
+OBJ carpet 17 2 0.0 180.0 0 + + + 0
+OBJ carpet 17 3 0.0 180.0 0 + + + 0
+OBJ carpet 18 3 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 18 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 17 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 17 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 17 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 18 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 17 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 16 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 16 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 16 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 16 2 0.0 360.0 2 + + + 1 2.0
+OBJ carpet 16 3 0.0 180.0 0 + + + 0
+OBJ carpet 16 2 0.0 180.0 0 + + + 0
+OBJ carpet 16 4 0.0 180.0 0 + + + 0
+OBJ carpet 16 5 0.0 180.0 0 + + + 0
+OBJ carpet 16 6 0.0 180.0 0 + + + 0
+OBJ carpet 16 8 0.0 180.0 0 + + + 0
+OBJ carpet 16 7 0.0 180.0 0 + + + 0
+OBJ carpet 16 9 0.0 180.0 0 + + + 0
+OBJ mailbox 25 0 0.0 180.0 0 + + + 1 3.01811933517
+OBJ tree 3 25 0.0 180.0 0 + + + 1 7.0
+OBJ treetop 3 25 0.0 180.0 0 + + + 1 1 
+OBJ extWall_I 21 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 21 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 23 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 22 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 22 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 24 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 24 2 6.0 360.0 2 + + + 1 2.0
+OBJ grass 19 24 0.0 180.0 0 + + + 0
+OBJ grass 19 0 0.0 180.0 0 + + + 0
+OBJ grass 19 1 0.0 180.0 0 + + + 0
+OBJ carpet 19 9 0.0 180.0 0 + + + 0
+OBJ carpet 19 21 0.0 180.0 0 + + + 0
+OBJ carpet 19 23 0.0 180.0 0 + + + 0
+OBJ carpet 19 22 0.0 180.0 0 + + + 0
+OBJ carpet 19 7 0.0 180.0 0 + + + 0
+OBJ carpet 19 8 0.0 180.0 0 + + + 0
+OBJ carpet 19 6 0.0 180.0 0 + + + 0
+OBJ carpet 19 5 0.0 180.0 0 + + + 0
+OBJ carpet 19 4 0.0 180.0 0 + + + 0
+OBJ carpet 19 2 0.0 180.0 0 + + + 0
+OBJ carpet 19 3 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 19 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 19 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 19 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 19 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 19 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 19 23 6.0 180.0 2 + + + 1 2.0
+OBJ carpet 19 11 0.0 180.0 0 + + + 0
+OBJ carpet 19 12 0.0 180.0 0 + + + 0
+OBJ carpet 19 13 0.0 180.0 0 + + + 0
+OBJ carpet 19 14 0.0 180.0 0 + + + 0
+OBJ carpet 19 16 0.0 180.0 0 + + + 0
+OBJ carpet 19 17 0.0 180.0 0 + + + 0
+OBJ carpet 19 18 0.0 180.0 0 + + + 0
+OBJ carpet 19 19 0.0 180.0 0 + + + 0
+OBJ carpet 19 20 0.0 180.0 0 + + + 0
+OBJ carpet 18 20 0.0 180.0 0 + + + 0
+OBJ carpet 18 19 0.0 180.0 0 + + + 0
+OBJ carpet 18 18 0.0 180.0 0 + + + 0
+OBJ carpet 18 17 0.0 180.0 0 + + + 0
+OBJ carpet 18 16 0.0 180.0 0 + + + 0
+OBJ carpet 18 15 0.0 180.0 0 + + + 0
+OBJ carpet 18 14 0.0 180.0 0 + + + 0
+OBJ carpet 18 13 0.0 180.0 0 + + + 0
+OBJ carpet 18 12 0.0 180.0 0 + + + 0
+OBJ carpet 18 11 0.0 180.0 0 + + + 0
+OBJ extWall_I 18 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 18 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 18 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 18 23 0.0 180.0 2 + + + 1 2.0
+OBJ carpet 18 22 0.0 180.0 0 + + + 0
+OBJ carpet 18 23 0.0 180.0 0 + + + 0
+OBJ carpet 18 21 0.0 180.0 0 + + + 0
+OBJ grass 18 1 0.0 180.0 0 + + + 0
+OBJ grass 18 0 0.0 180.0 0 + + + 0
+OBJ grass 18 24 0.0 180.0 0 + + + 0
+OBJ grass 17 24 0.0 180.0 0 + + + 0
+OBJ grass 17 0 0.0 180.0 0 + + + 0
+OBJ grass 17 1 0.0 180.0 0 + + + 0
+OBJ carpet 17 21 0.0 180.0 0 + + + 0
+OBJ carpet 17 23 0.0 180.0 0 + + + 0
+OBJ carpet 17 22 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 17 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 17 23 6.0 180.0 2 + + + 1 2.0
+OBJ carpet 17 14 0.0 180.0 0 + + + 0
+OBJ carpet 17 15 0.0 180.0 0 + + + 0
+OBJ carpet 17 16 0.0 180.0 0 + + + 0
+OBJ carpet 17 17 0.0 180.0 0 + + + 0
+OBJ carpet 17 18 0.0 180.0 0 + + + 0
+OBJ carpet 17 19 0.0 180.0 0 + + + 0
+OBJ carpet 17 20 0.0 180.0 0 + + + 0
+OBJ carpet 16 20 0.0 180.0 0 + + + 0
+OBJ carpet 16 19 0.0 180.0 0 + + + 0
+OBJ carpet 16 18 0.0 180.0 0 + + + 0
+OBJ carpet 16 17 0.0 180.0 0 + + + 0
+OBJ carpet 16 16 0.0 180.0 0 + + + 0
+OBJ extWall_I 16 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 16 23 0.0 180.0 2 + + + 1 2.0
+OBJ carpet 16 22 0.0 180.0 0 + + + 0
+OBJ carpet 16 23 0.0 180.0 0 + + + 0
+OBJ carpet 16 21 0.0 180.0 0 + + + 0
+OBJ grass 16 1 0.0 180.0 0 + + + 0
+OBJ grass 16 0 0.0 180.0 0 + + + 0
+OBJ grass 16 24 0.0 180.0 0 + + + 0
+OBJ grass 15 24 0.0 180.0 0 + + + 0
+OBJ grass 15 0 0.0 180.0 0 + + + 0
+OBJ grass 15 1 0.0 180.0 0 + + + 0
+OBJ carpet 15 21 0.0 180.0 0 + + + 0
+OBJ carpet 15 23 0.0 180.0 0 + + + 0
+OBJ carpet 15 22 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 15 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 15 23 6.0 180.0 2 + + + 1 2.0
+OBJ carpet 15 16 0.0 180.0 0 + + + 0
+OBJ carpet 15 17 0.0 180.0 0 + + + 0
+OBJ carpet 15 18 0.0 180.0 0 + + + 0
+OBJ carpet 15 19 0.0 180.0 0 + + + 0
+OBJ carpet 15 20 0.0 180.0 0 + + + 0
+OBJ grass 9 25 0.0 180.0 0 + + + 0
+OBJ grass 9 24 0.0 180.0 0 + + + 0
+OBJ grass 9 21 0.0 180.0 0 + + + 0
+OBJ grass 9 22 0.0 180.0 0 + + + 0
+OBJ grass 9 23 0.0 180.0 0 + + + 0
+OBJ grass 9 13 0.0 180.0 0 + + + 0
+OBJ grass 9 14 0.0 180.0 0 + + + 0
+OBJ grass 9 15 0.0 180.0 0 + + + 0
+OBJ grass 9 16 0.0 180.0 0 + + + 0
+OBJ grass 9 17 0.0 180.0 0 + + + 0
+OBJ grass 9 18 0.0 180.0 0 + + + 0
+OBJ grass 9 19 0.0 180.0 0 + + + 0
+OBJ grass 9 20 0.0 180.0 0 + + + 0
+OBJ grass 8 20 0.0 180.0 0 + + + 0
+OBJ grass 8 19 0.0 180.0 0 + + + 0
+OBJ grass 8 18 0.0 180.0 0 + + + 0
+OBJ grass 8 17 0.0 180.0 0 + + + 0
+OBJ grass 8 16 0.0 180.0 0 + + + 0
+OBJ grass 8 15 0.0 180.0 0 + + + 0
+OBJ grass 8 14 0.0 180.0 0 + + + 0
+OBJ grass 8 13 0.0 180.0 0 + + + 0
+OBJ grass 8 23 0.0 180.0 0 + + + 0
+OBJ grass 8 22 0.0 180.0 0 + + + 0
+OBJ grass 8 21 0.0 180.0 0 + + + 0
+OBJ grass 8 24 0.0 180.0 0 + + + 0
+OBJ grass 8 25 0.0 180.0 0 + + + 0
+OBJ grass 7 25 0.0 180.0 0 + + + 0
+OBJ grass 7 24 0.0 180.0 0 + + + 0
+OBJ grass 7 21 0.0 180.0 0 + + + 0
+OBJ grass 7 22 0.0 180.0 0 + + + 0
+OBJ grass 7 23 0.0 180.0 0 + + + 0
+OBJ grass 7 13 0.0 180.0 0 + + + 0
+OBJ grass 7 14 0.0 180.0 0 + + + 0
+OBJ grass 7 15 0.0 180.0 0 + + + 0
+OBJ grass 7 16 0.0 180.0 0 + + + 0
+OBJ grass 7 17 0.0 180.0 0 + + + 0
+OBJ grass 7 18 0.0 180.0 0 + + + 0
+OBJ grass 7 19 0.0 180.0 0 + + + 0
+OBJ grass 7 20 0.0 180.0 0 + + + 0
+OBJ grass 6 20 0.0 180.0 0 + + + 0
+OBJ grass 6 19 0.0 180.0 0 + + + 0
+OBJ grass 6 18 0.0 180.0 0 + + + 0
+OBJ grass 6 17 0.0 180.0 0 + + + 0
+OBJ grass 6 16 0.0 180.0 0 + + + 0
+OBJ grass 6 15 0.0 180.0 0 + + + 0
+OBJ grass 6 14 0.0 180.0 0 + + + 0
+OBJ grass 6 13 0.0 180.0 0 + + + 0
+OBJ grass 6 23 0.0 180.0 0 + + + 0
+OBJ grass 6 22 0.0 180.0 0 + + + 0
+OBJ grass 6 21 0.0 180.0 0 + + + 0
+OBJ grass 6 24 0.0 180.0 0 + + + 0
+OBJ grass 6 25 0.0 180.0 0 + + + 0
+OBJ grass 5 25 0.0 180.0 0 + + + 0
+OBJ grass 5 24 0.0 180.0 0 + + + 0
+OBJ grass 5 21 0.0 180.0 0 + + + 0
+OBJ grass 5 22 0.0 180.0 0 + + + 0
+OBJ grass 5 23 0.0 180.0 0 + + + 0
+OBJ grass 5 13 0.0 180.0 0 + + + 0
+OBJ grass 5 14 0.0 180.0 0 + + + 0
+OBJ grass 5 15 0.0 180.0 0 + + + 0
+OBJ grass 5 16 0.0 180.0 0 + + + 0
+OBJ grass 5 17 0.0 180.0 0 + + + 0
+OBJ grass 5 18 0.0 180.0 0 + + + 0
+OBJ grass 5 19 0.0 180.0 0 + + + 0
+OBJ grass 5 20 0.0 180.0 0 + + + 0
+OBJ grass 4 20 0.0 180.0 0 + + + 0
+OBJ grass 4 19 0.0 180.0 0 + + + 0
+OBJ grass 4 18 0.0 180.0 0 + + + 0
+OBJ grass 4 17 0.0 180.0 0 + + + 0
+OBJ grass 4 16 0.0 180.0 0 + + + 0
+OBJ grass 4 15 0.0 180.0 0 + + + 0
+OBJ grass 4 14 0.0 180.0 0 + + + 0
+OBJ grass 4 13 0.0 180.0 0 + + + 0
+OBJ grass 4 23 0.0 180.0 0 + + + 0
+OBJ grass 4 22 0.0 180.0 0 + + + 0
+OBJ grass 4 21 0.0 180.0 0 + + + 0
+OBJ grass 4 24 0.0 180.0 0 + + + 0
+OBJ grass 4 25 0.0 180.0 0 + + + 0
+OBJ grass 3 25 0.0 180.0 0 + + + 0
+OBJ grass 3 24 0.0 180.0 0 + + + 0
+OBJ grass 3 21 0.0 180.0 0 + + + 0
+OBJ grass 3 22 0.0 180.0 0 + + + 0
+OBJ grass 3 23 0.0 180.0 0 + + + 0
+OBJ grass 3 13 0.0 180.0 0 + + + 0
+OBJ grass 3 14 0.0 180.0 0 + + + 0
+OBJ grass 3 15 0.0 180.0 0 + + + 0
+OBJ grass 3 16 0.0 180.0 0 + + + 0
+OBJ grass 3 17 0.0 180.0 0 + + + 0
+OBJ grass 3 18 0.0 180.0 0 + + + 0
+OBJ grass 3 19 0.0 180.0 0 + + + 0
+OBJ grass 3 20 0.0 180.0 0 + + + 0
+OBJ grass 2 20 0.0 180.0 0 + + + 0
+OBJ grass 2 19 0.0 180.0 0 + + + 0
+OBJ grass 2 18 0.0 180.0 0 + + + 0
+OBJ grass 2 17 0.0 180.0 0 + + + 0
+OBJ grass 2 16 0.0 180.0 0 + + + 0
+OBJ grass 2 15 0.0 180.0 0 + + + 0
+OBJ grass 2 14 0.0 180.0 0 + + + 0
+OBJ grass 2 13 0.0 180.0 0 + + + 0
+OBJ grass 2 23 0.0 180.0 0 + + + 0
+OBJ grass 2 22 0.0 180.0 0 + + + 0
+OBJ grass 2 21 0.0 180.0 0 + + + 0
+OBJ grass 2 24 0.0 180.0 0 + + + 0
+OBJ grass 2 25 0.0 180.0 0 + + + 0
+OBJ grass 1 25 0.0 180.0 0 + + + 0
+OBJ grass 1 24 0.0 180.0 0 + + + 0
+OBJ grass 1 21 0.0 180.0 0 + + + 0
+OBJ grass 1 22 0.0 180.0 0 + + + 0
+OBJ grass 1 23 0.0 180.0 0 + + + 0
+OBJ grass 1 13 0.0 180.0 0 + + + 0
+OBJ grass 1 14 0.0 180.0 0 + + + 0
+OBJ grass 1 15 0.0 180.0 0 + + + 0
+OBJ grass 1 16 0.0 180.0 0 + + + 0
+OBJ grass 1 17 0.0 180.0 0 + + + 0
+OBJ grass 1 18 0.0 180.0 0 + + + 0
+OBJ grass 1 19 0.0 180.0 0 + + + 0
+OBJ grass 1 20 0.0 180.0 0 + + + 0
+OBJ extWall_I 29 20 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 11 20 6.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 20 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 11 20 0.0 90.0 2 + + + 1 2.0
+OBJ carpet 11 20 0.0 180.0 0 + + + 0
+OBJ carpet 12 20 0.0 180.0 0 + + + 0
+OBJ carpet 29 20 0.0 180.0 0 + + + 0
+OBJ carpet 28 20 0.0 180.0 0 + + + 0
+OBJ carpet 23 20 0.0 180.0 0 + + + 0
+OBJ carpet 24 20 0.0 180.0 0 + + + 0
+OBJ carpet 25 20 0.0 180.0 0 + + + 0
+OBJ carpet 26 20 0.0 180.0 0 + + + 0
+OBJ carpet 27 20 0.0 180.0 0 + + + 0
+OBJ carpet 22 20 0.0 180.0 0 + + + 0
+OBJ carpet 21 20 0.0 180.0 0 + + + 0
+OBJ carpet 20 20 0.0 180.0 0 + + + 0
+OBJ carpet 14 20 0.0 180.0 0 + + + 0
+OBJ carpet 13 20 0.0 180.0 0 + + + 0
+OBJ grass 30 20 0.0 180.0 0 + + + 0
+OBJ grass 0 20 0.0 180.0 0 + + + 0
+OBJ grass 0 19 0.0 180.0 0 + + + 0
+OBJ grass 30 19 0.0 180.0 0 + + + 0
+OBJ carpet 13 19 0.0 180.0 0 + + + 0
+OBJ carpet 14 19 0.0 180.0 0 + + + 0
+OBJ carpet 20 19 0.0 180.0 0 + + + 0
+OBJ carpet 21 19 0.0 180.0 0 + + + 0
+OBJ carpet 22 19 0.0 180.0 0 + + + 0
+OBJ carpet 27 19 0.0 180.0 0 + + + 0
+OBJ carpet 26 19 0.0 180.0 0 + + + 0
+OBJ carpet 25 19 0.0 180.0 0 + + + 0
+OBJ carpet 24 19 0.0 180.0 0 + + + 0
+OBJ carpet 23 19 0.0 180.0 0 + + + 0
+OBJ carpet 28 19 0.0 180.0 0 + + + 0
+OBJ carpet 29 19 0.0 180.0 0 + + + 0
+OBJ carpet 12 19 0.0 180.0 0 + + + 0
+OBJ carpet 11 19 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 29 19 0.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 19 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 19 4.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 11 19 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 29 19 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 18 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 11 18 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 18 4.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 18 0.0 270.0 2 + + + 1 2.0
+OBJ carpet 11 18 0.0 180.0 0 + + + 0
+OBJ carpet 12 18 0.0 180.0 0 + + + 0
+OBJ carpet 29 18 0.0 180.0 0 + + + 0
+OBJ carpet 28 18 0.0 180.0 0 + + + 0
+OBJ carpet 23 18 0.0 180.0 0 + + + 0
+OBJ carpet 24 18 0.0 180.0 0 + + + 0
+OBJ carpet 25 18 0.0 180.0 0 + + + 0
+OBJ carpet 26 18 0.0 180.0 0 + + + 0
+OBJ carpet 27 18 0.0 180.0 0 + + + 0
+OBJ carpet 22 18 0.0 180.0 0 + + + 0
+OBJ carpet 21 18 0.0 180.0 0 + + + 0
+OBJ carpet 20 18 0.0 180.0 0 + + + 0
+OBJ carpet 14 18 0.0 180.0 0 + + + 0
+OBJ carpet 13 18 0.0 180.0 0 + + + 0
+OBJ grass 30 18 0.0 180.0 0 + + + 0
+OBJ grass 0 18 0.0 180.0 0 + + + 0
+OBJ grass 0 17 0.0 180.0 0 + + + 0
+OBJ grass 30 17 0.0 180.0 0 + + + 0
+OBJ carpet 13 17 0.0 180.0 0 + + + 0
+OBJ carpet 14 17 0.0 180.0 0 + + + 0
+OBJ carpet 20 17 0.0 180.0 0 + + + 0
+OBJ carpet 21 17 0.0 180.0 0 + + + 0
+OBJ carpet 22 17 0.0 180.0 0 + + + 0
+OBJ carpet 27 17 0.0 180.0 0 + + + 0
+OBJ carpet 26 17 0.0 180.0 0 + + + 0
+OBJ carpet 25 17 0.0 180.0 0 + + + 0
+OBJ carpet 24 17 0.0 180.0 0 + + + 0
+OBJ carpet 23 17 0.0 180.0 0 + + + 0
+OBJ carpet 28 17 0.0 180.0 0 + + + 0
+OBJ carpet 29 17 0.0 180.0 0 + + + 0
+OBJ carpet 12 17 0.0 180.0 0 + + + 0
+OBJ carpet 11 17 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 29 17 0.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 11 17 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 17 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 29 17 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 16 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 11 16 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 16 4.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 16 0.0 270.0 2 + + + 1 2.0
+OBJ carpet 11 16 0.0 180.0 0 + + + 0
+OBJ carpet 12 16 0.0 180.0 0 + + + 0
+OBJ carpet 29 16 0.0 180.0 0 + + + 0
+OBJ carpet 28 16 0.0 180.0 0 + + + 0
+OBJ carpet 23 16 0.0 180.0 0 + + + 0
+OBJ carpet 24 16 0.0 180.0 0 + + + 0
+OBJ carpet 25 16 0.0 180.0 0 + + + 0
+OBJ carpet 26 16 0.0 180.0 0 + + + 0
+OBJ carpet 27 16 0.0 180.0 0 + + + 0
+OBJ carpet 22 16 0.0 180.0 0 + + + 0
+OBJ carpet 21 16 0.0 180.0 0 + + + 0
+OBJ carpet 20 16 0.0 180.0 0 + + + 0
+OBJ carpet 14 16 0.0 180.0 0 + + + 0
+OBJ carpet 13 16 0.0 180.0 0 + + + 0
+OBJ grass 30 16 0.0 180.0 0 + + + 0
+OBJ grass 0 16 0.0 180.0 0 + + + 0
+OBJ grass 0 15 0.0 180.0 0 + + + 0
+OBJ carpet 13 15 0.0 180.0 0 + + + 0
+OBJ carpet 20 15 0.0 180.0 0 + + + 0
+OBJ carpet 21 15 0.0 180.0 0 + + + 0
+OBJ carpet 22 15 0.0 180.0 0 + + + 0
+OBJ carpet 23 15 0.0 180.0 0 + + + 0
+OBJ carpet 12 15 0.0 180.0 0 + + + 0
+OBJ carpet 11 15 0.0 180.0 0 + + + 0
+OBJ extWall_I 11 15 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 15 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 14 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 14 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 14 2.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 11 14 0.0 90.0 2 + + + 1 2.0
+OBJ carpet 11 14 0.0 180.0 0 + + + 0
+OBJ grass 0 14 0.0 180.0 0 + + + 0
+OBJ grass 0 13 0.0 180.0 0 + + + 0
+OBJ carpet 11 13 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 11 13 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 13 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 13 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 12 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 12 2.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 11 12 0.0 90.0 2 + + + 1 2.0
+OBJ carpet 11 12 0.0 180.0 0 + + + 0
+OBJ carpet 11 11 0.0 180.0 0 + + + 0
+OBJ extWallBase_I 11 11 0.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 11 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 11 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 11 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 23 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 23 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 22 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 22 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_L 1 1 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_L 11 23 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 29 2 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 29 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 25 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 26 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 27 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 28 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 29 6 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 5 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 4 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 3 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 20 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 14 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 20 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 21 2 6.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 29 7 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 8 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 9 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 22 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 29 21 6.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 25 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 24 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 26 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 27 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 28 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 13 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 12 23 6.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 11 22 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 9 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 11 21 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 5 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 4 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 2 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 6 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 7 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 8 6.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 8 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 7 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 6 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 2 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 4 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 5 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 9 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 12 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 13 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 28 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 27 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 26 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 21 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 14 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 20 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 29 6 4.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 25 2 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_L 29 23 4.0 180.0 2 + + + 1 2.0
+OBJ extWall_L 29 2 4.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 11 23 4.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 1 1 4.0 360.0 2 + + + 1 2.0
+OBJ extWall_L 1 1 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_L 11 23 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_L 29 2 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_L 29 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_E 22 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWall_E 22 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_E 24 2 0.0 360.0 2 - + + 1 2.0
+OBJ extWall_E 24 2 2.0 360.0 2 - + + 1 2.0
+OBJ extWall_I 25 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 29 6 2.0 270.0 2 + + + 1 2.0
+OBJ extWall_I 20 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 14 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 21 2 2.0 360.0 2 + + + 1 2.0
+OBJ extWall_I 26 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 27 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 28 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 13 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 12 23 2.0 180.0 2 + + + 1 2.0
+OBJ extWall_I 1 9 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 5 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 4 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 2 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 6 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 7 2.0 90.0 2 + + + 1 2.0
+OBJ extWall_I 1 8 2.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_L 1 1 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_L 29 2 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_L 29 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_L 11 23 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 20 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 21 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 26 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 25 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 27 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 28 2 0.0 360.0 2 + + + 1 2.0
+OBJ extWallBase_I 28 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 27 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 12 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 13 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 20 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 14 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 24 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 25 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 26 23 0.0 180.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 3 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 4 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 6 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 5 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 7 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 8 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 9 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 21 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 29 22 0.0 270.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 2 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 4 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 6 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 5 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 7 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 8 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 1 9 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 11 21 0.0 90.0 2 + + + 1 2.0
+OBJ extWallBase_I 11 22 0.0 90.0 2 + + + 1 2.0
+OBJ carpet 12 21 0.0 180.0 0 + + + 0
+OBJ carpet 11 21 0.0 180.0 0 + + + 0
+OBJ carpet 11 23 0.0 180.0 0 + + + 0
+OBJ carpet 12 23 0.0 180.0 0 + + + 0
+OBJ carpet 12 22 0.0 180.0 0 + + + 0
+OBJ carpet 11 22 0.0 180.0 0 + + + 0
+OBJ carpet 28 22 0.0 180.0 0 + + + 0
+OBJ carpet 29 22 0.0 180.0 0 + + + 0
+OBJ carpet 29 23 0.0 180.0 0 + + + 0
+OBJ carpet 28 23 0.0 180.0 0 + + + 0
+OBJ carpet 28 21 0.0 180.0 0 + + + 0
+OBJ carpet 29 21 0.0 180.0 0 + + + 0
+OBJ carpet 28 9 0.0 180.0 0 + + + 0
+OBJ carpet 29 9 0.0 180.0 0 + + + 0
+OBJ carpet 29 4 0.0 180.0 0 + + + 0
+OBJ carpet 28 4 0.0 180.0 0 + + + 0
+OBJ carpet 28 5 0.0 180.0 0 + + + 0
+OBJ carpet 29 5 0.0 180.0 0 + + + 0
+OBJ carpet 29 6 0.0 180.0 0 + + + 0
+OBJ carpet 28 6 0.0 180.0 0 + + + 0
+OBJ carpet 28 8 0.0 180.0 0 + + + 0
+OBJ carpet 29 8 0.0 180.0 0 + + + 0
+OBJ carpet 29 7 0.0 180.0 0 + + + 0
+OBJ carpet 28 7 0.0 180.0 0 + + + 0
+OBJ carpet 29 3 0.0 180.0 0 + + + 0
+OBJ carpet 28 3 0.0 180.0 0 + + + 0
+OBJ carpet 28 2 0.0 180.0 0 + + + 0
+OBJ carpet 29 2 0.0 180.0 0 + + + 0
+OBJ carpet 27 2 0.0 180.0 0 + + + 0
+OBJ carpet 26 2 0.0 180.0 0 + + + 0
+OBJ carpet 25 2 0.0 180.0 0 + + + 0
+OBJ carpet 24 2 0.0 180.0 0 + + + 0
+OBJ carpet 23 2 0.0 180.0 0 + + + 0
+OBJ carpet 23 3 0.0 180.0 0 + + + 0
+OBJ carpet 24 3 0.0 180.0 0 + + + 0
+OBJ carpet 25 3 0.0 180.0 0 + + + 0
+OBJ carpet 26 3 0.0 180.0 0 + + + 0
+OBJ carpet 27 3 0.0 180.0 0 + + + 0
+OBJ carpet 22 3 0.0 180.0 0 + + + 0
+OBJ carpet 21 3 0.0 180.0 0 + + + 0
+OBJ carpet 20 3 0.0 180.0 0 + + + 0
+OBJ carpet 20 2 0.0 180.0 0 + + + 0
+OBJ carpet 21 2 0.0 180.0 0 + + + 0
+OBJ carpet 22 2 0.0 180.0 0 + + + 0
+OBJ carpet 22 4 0.0 180.0 0 + + + 0
+OBJ carpet 21 4 0.0 180.0 0 + + + 0
+OBJ carpet 20 4 0.0 180.0 0 + + + 0
+OBJ carpet 20 5 0.0 180.0 0 + + + 0
+OBJ carpet 21 5 0.0 180.0 0 + + + 0
+OBJ carpet 22 5 0.0 180.0 0 + + + 0
+OBJ carpet 22 6 0.0 180.0 0 + + + 0
+OBJ carpet 21 6 0.0 180.0 0 + + + 0
+OBJ carpet 20 6 0.0 180.0 0 + + + 0
+OBJ carpet 20 8 0.0 180.0 0 + + + 0
+OBJ carpet 21 8 0.0 180.0 0 + + + 0
+OBJ carpet 22 8 0.0 180.0 0 + + + 0
+OBJ carpet 22 7 0.0 180.0 0 + + + 0
+OBJ carpet 21 7 0.0 180.0 0 + + + 0
+OBJ carpet 20 7 0.0 180.0 0 + + + 0
+OBJ carpet 23 7 0.0 180.0 0 + + + 0
+OBJ carpet 24 7 0.0 180.0 0 + + + 0
+OBJ carpet 25 7 0.0 180.0 0 + + + 0
+OBJ carpet 26 7 0.0 180.0 0 + + + 0
+OBJ carpet 27 7 0.0 180.0 0 + + + 0
+OBJ carpet 27 8 0.0 180.0 0 + + + 0
+OBJ carpet 26 8 0.0 180.0 0 + + + 0
+OBJ carpet 25 8 0.0 180.0 0 + + + 0
+OBJ carpet 24 8 0.0 180.0 0 + + + 0
+OBJ carpet 23 8 0.0 180.0 0 + + + 0
+OBJ carpet 23 6 0.0 180.0 0 + + + 0
+OBJ carpet 24 6 0.0 180.0 0 + + + 0
+OBJ carpet 25 6 0.0 180.0 0 + + + 0
+OBJ carpet 26 6 0.0 180.0 0 + + + 0
+OBJ carpet 27 6 0.0 180.0 0 + + + 0
+OBJ carpet 27 5 0.0 180.0 0 + + + 0
+OBJ carpet 26 5 0.0 180.0 0 + + + 0
+OBJ carpet 25 5 0.0 180.0 0 + + + 0
+OBJ carpet 24 5 0.0 180.0 0 + + + 0
+OBJ carpet 23 5 0.0 180.0 0 + + + 0
+OBJ carpet 23 4 0.0 180.0 0 + + + 0
+OBJ carpet 24 4 0.0 180.0 0 + + + 0
+OBJ carpet 25 4 0.0 180.0 0 + + + 0
+OBJ carpet 26 4 0.0 180.0 0 + + + 0
+OBJ carpet 27 4 0.0 180.0 0 + + + 0
+OBJ carpet 27 9 0.0 180.0 0 + + + 0
+OBJ carpet 26 9 0.0 180.0 0 + + + 0
+OBJ carpet 25 9 0.0 180.0 0 + + + 0
+OBJ carpet 24 9 0.0 180.0 0 + + + 0
+OBJ carpet 23 9 0.0 180.0 0 + + + 0
+OBJ carpet 23 10 0.0 180.0 0 + + + 0
+OBJ carpet 27 21 0.0 180.0 0 + + + 0
+OBJ carpet 26 21 0.0 180.0 0 + + + 0
+OBJ carpet 25 21 0.0 180.0 0 + + + 0
+OBJ carpet 24 21 0.0 180.0 0 + + + 0
+OBJ carpet 23 21 0.0 180.0 0 + + + 0
+OBJ carpet 23 23 0.0 180.0 0 + + + 0
+OBJ carpet 24 23 0.0 180.0 0 + + + 0
+OBJ carpet 25 23 0.0 180.0 0 + + + 0
+OBJ carpet 26 23 0.0 180.0 0 + + + 0
+OBJ carpet 27 23 0.0 180.0 0 + + + 0
+OBJ carpet 27 22 0.0 180.0 0 + + + 0
+OBJ carpet 26 22 0.0 180.0 0 + + + 0
+OBJ carpet 25 22 0.0 180.0 0 + + + 0
+OBJ carpet 24 22 0.0 180.0 0 + + + 0
+OBJ carpet 23 22 0.0 180.0 0 + + + 0
+OBJ carpet 13 22 0.0 180.0 0 + + + 0
+OBJ carpet 14 22 0.0 180.0 0 + + + 0
+OBJ carpet 20 22 0.0 180.0 0 + + + 0
+OBJ carpet 21 22 0.0 180.0 0 + + + 0
+OBJ carpet 22 22 0.0 180.0 0 + + + 0
+OBJ carpet 22 23 0.0 180.0 0 + + + 0
+OBJ carpet 21 23 0.0 180.0 0 + + + 0
+OBJ carpet 20 23 0.0 180.0 0 + + + 0
+OBJ carpet 14 23 0.0 180.0 0 + + + 0
+OBJ carpet 13 23 0.0 180.0 0 + + + 0
+OBJ carpet 13 21 0.0 180.0 0 + + + 0
+OBJ carpet 14 21 0.0 180.0 0 + + + 0
+OBJ carpet 20 21 0.0 180.0 0 + + + 0
+OBJ carpet 21 21 0.0 180.0 0 + + + 0
+OBJ carpet 22 21 0.0 180.0 0 + + + 0
+OBJ carpet 22 10 0.0 180.0 0 + + + 0
+OBJ carpet 21 10 0.0 180.0 0 + + + 0
+OBJ carpet 20 10 0.0 180.0 0 + + + 0
+OBJ carpet 20 9 0.0 180.0 0 + + + 0
+OBJ carpet 21 9 0.0 180.0 0 + + + 0
+OBJ carpet 22 9 0.0 180.0 0 + + + 0
+OBJ grass 30 1 0.0 180.0 0 + + + 0
+OBJ grass 29 1 0.0 180.0 0 + + + 0
+OBJ grass 28 1 0.0 180.0 0 + + + 0
+OBJ grass 30 2 0.0 180.0 0 + + + 0
+OBJ grass 30 3 0.0 180.0 0 + + + 0
+OBJ grass 23 1 0.0 180.0 0 + + + 0
+OBJ grass 24 1 0.0 180.0 0 + + + 0
+OBJ grass 25 1 0.0 180.0 0 + + + 0
+OBJ grass 26 1 0.0 180.0 0 + + + 0
+OBJ grass 27 1 0.0 180.0 0 + + + 0
+OBJ grass 22 1 0.0 180.0 0 + + + 0
+OBJ grass 21 1 0.0 180.0 0 + + + 0
+OBJ grass 20 1 0.0 180.0 0 + + + 0
+OBJ grass 14 1 0.0 180.0 0 + + + 0
+OBJ grass 13 1 0.0 180.0 0 + + + 0
+OBJ grass 11 0 0.0 180.0 0 + + + 0
+OBJ grass 12 1 0.0 180.0 0 + + + 0
+OBJ grass 28 0 0.0 180.0 0 + + + 0
+OBJ grass 29 0 0.0 180.0 0 + + + 0
+OBJ grass 30 0 0.0 180.0 0 + + + 0
+OBJ grass 28 24 0.0 180.0 0 + + + 0
+OBJ grass 29 24 0.0 180.0 0 + + + 0
+OBJ grass 30 24 0.0 180.0 0 + + + 0
+OBJ grass 30 9 0.0 180.0 0 + + + 0
+OBJ grass 30 21 0.0 180.0 0 + + + 0
+OBJ grass 30 22 0.0 180.0 0 + + + 0
+OBJ grass 30 23 0.0 180.0 0 + + + 0
+OBJ grass 30 8 0.0 180.0 0 + + + 0
+OBJ grass 30 7 0.0 180.0 0 + + + 0
+OBJ grass 30 6 0.0 180.0 0 + + + 0
+OBJ grass 30 5 0.0 180.0 0 + + + 0
+OBJ grass 30 4 0.0 180.0 0 + + + 0
+OBJ grass 0 23 0.0 180.0 0 + + + 0
+OBJ grass 0 22 0.0 180.0 0 + + + 0
+OBJ grass 0 21 0.0 180.0 0 + + + 0
+OBJ grass 12 24 0.0 180.0 0 + + + 0
+OBJ grass 11 24 0.0 180.0 0 + + + 0
+OBJ grass 0 24 0.0 180.0 0 + + + 0
+OBJ grass 0 25 0.0 180.0 0 + + + 0
+OBJ grass 12 0 0.0 180.0 0 + + + 0
+OBJ grass 13 0 0.0 180.0 0 + + + 0
+OBJ grass 14 0 0.0 180.0 0 + + + 0
+OBJ grass 20 0 0.0 180.0 0 + + + 0
+OBJ grass 21 0 0.0 180.0 0 + + + 0
+OBJ grass 22 0 0.0 180.0 0 + + + 0
+OBJ grass 13 24 0.0 180.0 0 + + + 0
+OBJ grass 14 24 0.0 180.0 0 + + + 0
+OBJ grass 20 24 0.0 180.0 0 + + + 0
+OBJ grass 21 24 0.0 180.0 0 + + + 0
+OBJ grass 22 24 0.0 180.0 0 + + + 0
+OBJ grass 27 24 0.0 180.0 0 + + + 0
+OBJ grass 26 24 0.0 180.0 0 + + + 0
+OBJ grass 25 24 0.0 180.0 0 + + + 0
+OBJ grass 24 24 0.0 180.0 0 + + + 0
+OBJ grass 23 24 0.0 180.0 0 + + + 0
+OBJ grass 27 0 0.0 180.0 0 + + + 0
+OBJ grass 26 0 0.0 180.0 0 + + + 0
+OBJ grass 25 0 0.0 180.0 0 + + + 0
+OBJ grass 24 0 0.0 180.0 0 + + + 0
+OBJ grass 23 0 0.0 180.0 0 + + + 0
+OBJ bath 12 14 0.0 180.0 0 + + + 1 2.0
+OBJ toilet 12 11 0.0 90.0 0 + + + 1 2.0

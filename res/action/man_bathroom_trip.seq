@@ -1,0 +1,38 @@
+	herp.ANI herp.ani walk
+	# WALKS TO KITCHEN
+	herp.SPEED 0.75
+	herp.TO 2
+	herp.TO 3
+	herp.TO 4
+	herp.TO 5
+	herp.WAIT 5
+	# WALKS TO GARAGE
+	herp.TO 6
+	herp.TO 7
+	herp.TO 8
+	herp.TO 9
+	herp.TO 10
+	herp.TO 11
+	herp.WAIT 10
+	#HAS TO SHIT URGENTLY
+	herp.SPEED 1.5
+	herp.TO 9
+	herp.TO 12
+	# CANT HOLD IT
+	herp.SPEED 2
+	herp.TO 13
+	herp.CONTINUE house5bath1door
+		house5bath1door.WAIT
+		house5bath1door.ANI door.ani opened
+		house5bath1door.COLLIDE off
+	herp.TO 14
+	# RELEIF
+	herp.WAIT 10
+	herp.CONTINUE house5bath1door
+	# WALKS TO LIVING ROOM
+		house5bath1door.WAIT
+		house5bath1door.ANI door.ani closed
+		house5bath1door.COLLIDE on
+	herp.TO 13
+	herp.TO 12
+	herp.TO 1

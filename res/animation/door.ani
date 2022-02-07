@@ -1,0 +1,5 @@
+state opened
+obj recyclelid_open.obj 0
+
+state closed
+obj recyclelid.obj 0
